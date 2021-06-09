@@ -24,8 +24,8 @@ This time, this AI console system is private function only.
 But anybody can add their own code inside extension and library directory. While basic code of this system is PHP, AI will scan all php files in those directories and load-up as AI executing arguments.
 
 # Next Tasks
-- End-User Manual
+- End-User Manual [partly-done] --> [Manual](https://9r3i.github.io/ai.manual/)
 - Development Guide
-- AI GUI Emulator
+- AI GUI Emulator [partly-done]
 
 
